@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageId>Dloizides.Payments.Abstractions</PackageId>
+    <RootNamespace>Payments.AspNetCore.Merchant</RootNamespace>
+    <AssemblyName>Payments.Abstractions</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Security.SecretProtector" Version="1.1.0" />
+  </ItemGroup>
+
+</Project>
